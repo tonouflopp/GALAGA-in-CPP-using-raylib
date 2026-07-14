@@ -4,8 +4,8 @@ A Galaga-style arcade shooter built in C++ with Raylib built With
 C++ and Raylib, compiled with MinGW / MSYS2
 
 Requisites:
-MSYS2 with MinGW-w64
-Raylib installed and linked
+MSYS2 with MinGW-w64,
+Raylib installed and linked,
 VS Code (recommended) or any C++ IDE
 
 Running
