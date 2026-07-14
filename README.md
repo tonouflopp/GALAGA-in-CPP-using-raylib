@@ -15,6 +15,7 @@ Open the project folder in VS Code and press F5 to build and run (uses the inclu
 
 
 Controls
+
 Action Keys -> Move ship
 Space -> Fire laser
 Esc -> Quit
@@ -22,8 +23,10 @@ Esc -> Quit
 Project Structure
 
 GALAGA PROJECT CPP/
-├── src/          # Source files
-├── assets/       # Sprites, sounds, music
+├── src/              # Source files
+
+├── assets/           # Sprites, sounds, music
+
 └── README.md
 
 Acknowledgments
